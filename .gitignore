@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+.ruby-version
+vendor
+Gemfile.lock
+coverage
+
+.direnv
